@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-237&layout=compact)](https://github.com/gregory-237/github-readme-stats)
 
-<ul>
+<ul align="center">
   <li>Currently learning basics of web development</li>
   <li>Almost Python Junior Developer😄</li>
 </ul>
