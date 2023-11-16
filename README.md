@@ -7,7 +7,7 @@
 
 <ul>
   <li>Currently learning basics of web development</li>
-  <li>Almost Python Junior Developer😄</li>
+  <li>Almost python junior developer😄</li>
 </ul>
 
 <div align = center>
