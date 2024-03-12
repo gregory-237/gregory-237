@@ -4,12 +4,6 @@
 <div align = center>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-237&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 </div>
-
-<ul>
-  <li>Currently learning basics of web development</li>
-  <li>Almost python junior developer😄</li>
-</ul>
-
 <div align = center>
 <img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
