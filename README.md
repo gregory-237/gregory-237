@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Grigoriy</h1>
-<h3 align="center">Computer science student, beginner web developer</h3>
 
 <div align = center>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-237&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
